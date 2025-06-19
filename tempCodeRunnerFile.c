@@ -1,1 +1,1 @@
-printf("Input number : ");
+ break;
